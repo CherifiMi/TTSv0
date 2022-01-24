@@ -1,0 +1,11 @@
+D:\vs\TTSBS\TTSBS\bin\Debug\TTSBS.exe.config
+D:\vs\TTSBS\TTSBS\bin\Debug\TTSBS.exe
+D:\vs\TTSBS\TTSBS\bin\Debug\TTSBS.pdb
+D:\vs\TTSBS\TTSBS\obj\Debug\TTSBS.csprojAssemblyReference.cache
+D:\vs\TTSBS\TTSBS\obj\Debug\TTSBS.csproj.CoreCompileInputs.cache
+D:\vs\TTSBS\TTSBS\obj\Debug\TTSBS.exe
+D:\vs\TTSBS\TTSBS\obj\Debug\TTSBS.pdb
+D:\vs\TTSBS\TTSBS\bin\Debug\TTSBS.exe.manifest
+D:\vs\TTSBS\TTSBS\bin\Debug\TTSBS.application
+D:\vs\TTSBS\TTSBS\obj\Debug\TTSBS.exe.manifest
+D:\vs\TTSBS\TTSBS\obj\Debug\TTSBS.application
